@@ -199,3 +199,5 @@ eqemupatcher.yml
 eqemupatcher.exe
 SolutionInfo.cs
 lib/
+filelistbuilder-win-x64.exe
+patch.zip
