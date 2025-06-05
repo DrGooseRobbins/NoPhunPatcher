@@ -1,0 +1,16 @@
+15
+spq,spq
+tar,tar
+seg,seg
+drc,drc
+crs,crs
+box,box_chr
+brl,brl_chr
+cst,cst_chr
+bon,bon_chr
+wok,wok
+wor,wor
+she,she
+xef,xef
+xem,xem
+cst,cst

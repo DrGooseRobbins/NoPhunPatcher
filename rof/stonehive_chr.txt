@@ -1,0 +1,17 @@
+16
+bix,kithicor_chr
+was,gfaydark_chr
+snn,scarlet_chr
+rkp,rkp
+tar,tar
+crh,crh
+fgp,fgp
+smd,smd
+bxi,bxi
+i02,i02
+i07,i07
+mmy,mmy_chr
+lmf,lmf_chr
+lmm,lmm_chr
+mmf,mmf_chr
+mmm,mmm_chr

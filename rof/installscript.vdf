@@ -1,0 +1,19 @@
+"InstallScript"
+{
+	"Run Process"
+	{
+		"DXSetup"
+		{
+			"HasRunKey"		"HKEY_CURRENT_USER\\Software\\Valve\\Steam\\Apps\\205710"
+			"process 1"		"%INSTALLDIR%\\redists\\DirectX\\DXSETUP.exe"
+			"NoCleanUp"		"1"
+		}
+		"FixTimestamp"
+		{
+			"HasRunKey"		"HKEY_CURRENT_USER\\Software\\Valve\\Steam\\Apps\\205710"
+			"process 1"		"%INSTALLDIR%\\FixTimestamps.exe"
+			"command 1"		"fix.soe"
+		}
+	}
+}
+
