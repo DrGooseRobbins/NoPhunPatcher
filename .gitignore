@@ -201,3 +201,5 @@ SolutionInfo.cs
 lib/
 filelistbuilder-win-x64.exe
 patch.zip
+filelist_rof.yml
+filelistbuilder.yml
